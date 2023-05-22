@@ -39,7 +39,7 @@ Amo estudar, e encontrei nas Ciências de Dados a oportunidade de unir matemáti
 
 ## Projetos
 
-### [Projetos de Previsão de preços de casas]([https://hermannvargens.github.io/california_houses/])
+### [Projetos de Previsão de preços de casas]([https://github.com/hermannvargens/EDA_advaced_regression_houses])
 Neste projeto, analisei um dataset bastante conhecido, California Housing Prices, obitido no Kaggle. Além da Análise Exploratória dos Dados, utilizei três modelos de Machine Learning (Linear Regression, Decision Tree e Random Forest Tree) para a previsão dos preços das casas. Em seguida o modelo foi salvo como arquivo e foi realizado o deployment na plataforma Hugging Faces, que pode ser conferido nesse link.
 
 ### [Previsão de Vendas das Lojas Rossmann em 6 semanas](https://github.com/carolfoligno/Project_sales_prediction_Rossmann)
