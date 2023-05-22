@@ -39,8 +39,8 @@ Amo estudar, e encontrei nas Ciências de Dados a oportunidade de unir matemáti
 
 ## Projetos
 
-### [Projetos de Análise de Dados no PowerBI](https://github.com/carolfoligno/PowerBI)
-Nesse repositório está os projetos desenvolvidos na Ferramenta PowerBI, como Análise de dados Comerciais e de Campanhas de Marketng, entre outros problemas de negócio.
+### [Projetos de Previsão de preços de casas]([https://github.com/carolfoligno/PowerBI](https://hermannvargens.github.io/california_houses/))
+Neste projeto, analisei um dataset bastante conhecido, California Housing Prices, obitido no Kaggle. Além da Análise Exploratória dos Dados, utilizei três modelos de Machine Learning (Linear Regression, Decision Tree e Random Forest Tree) para a previsão dos preços das casas. Em seguida o modelo foi salvo como arquivo e foi realizado o deployment na plataforma Hugging Faces, que pode ser conferido nesse link.
 
 ### [Previsão de Vendas das Lojas Rossmann em 6 semanas](https://github.com/carolfoligno/Project_sales_prediction_Rossmann)
 Nesse projeto, teve como fim a previsão de vendas das redes de lojas da Rossmann dentro de 6 semanas. E para isso utilizei algoritmo de regressão Times Series, XGBoots, entre outros para buscar uma melhor acurácia. Como solução final, os resultados da previsão ficaram disponiveis no Telegram Bot, sendo acessiveis em qualquer lugar.
