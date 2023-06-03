@@ -44,4 +44,4 @@ Este projeto tem como objetivo analisar base de dados de uma empresa de telefoni
 
 Responderemos tammbém algumas perguntas de negócio através de consulta ao banco de dados, para obter outros *insights* relevantes.
 
-"Finalmente, aplicaremos o algoritmo de clusterização *K-Prototypes* para segmentar os clientes em diferentes grupos e entender melhor como cada grupo contribui com as receitas e o *churn rate* da empresa."
+Finalmente, aplicaremos o algoritmo de clusterização *K-Prototypes* para segmentar os clientes em diferentes grupos e entender melhor como cada grupo contribui com as receitas e o *churn rate* da empresa.
