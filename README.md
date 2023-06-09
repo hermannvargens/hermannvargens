@@ -2,7 +2,7 @@
 
 ## Contatos
 - E-MAIL: hermannvargens@gmail.com
-- PORTIFÓLIO: https://hermannvargens.wixsite.com/dados/porf%C3%B3lio-de-projetos
+- PORTIFÓLIO: https://hermannvargens.wixsite.com/dados/portfolio
 - MEDIUM: https://medium.com/@hermannvargens
 
 ## Sobre mim
