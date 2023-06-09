@@ -62,7 +62,7 @@ Otimizar cada modelo através do tuning dos respectivos hiperparâmetros, analis
 
 Utilizar a técnica de Stacking Generalization, para combinar todas as predições de forma a encontrar um modelo cujo desempenho supere todos os outros modelos individualmente.
 
-### ["Titanic - Machine Learning from Disaster"]([https://github.com/hermannvargens/Clustering](https://github.com/hermannvargens/titanic))
+### ["Titanic - Machine Learning from Disaster"](https://github.com/hermannvargens/titanic)
 Neste projeto, o utilizei o conhecido dataset da competição do Titanic, obtido do Kaggle, para realizar Análise Exploratória de Dados, e responder algumas perguntas sobre o dataset.
 Utilizei a biblioteca Altair para visualização de gráficos, a qual também fornece ferramentas de interatividade.
 Para a modelagem empreguei o Random Forest Classifier, e otimizei os parâmetros com o GridSearchCV.
