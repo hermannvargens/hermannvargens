@@ -43,3 +43,26 @@ Este projeto tem como objetivo analisar base de dados de uma empresa de telefoni
 Responderemos tammbém algumas perguntas de negócio através de consulta ao banco de dados, para obter outros *insights* relevantes.
 
 Finalmente, aplicaremos o algoritmo de clusterização *K-Prototypes* para segmentar os clientes em diferentes grupos e entender melhor como cada grupo contribui com as receitas e o *churn rate* da empresa.
+
+### ["Análise exploratória do Dataset "House Prices - Advanced Regression Techniques - Parte 1"](https://github.com/hermannvargens/EDA_advaced_regression_houses)
+Neste projeto, procurarei realizar uma Análise Exploratória mais detalhada do dataset "House Prices - Advanced Regression Techniques", obtido no link "https://www.kaggle.com/c/house-prices-advanced-regression-techniques".
+
+Este conjunto se constitui em 79 features, que é considerado um número razoavelmente alto, de onde podem se obter informações diversas.
+
+Procuraremos realizar uma análise voltada a entender cada tipo de variável, bem como analisar graficamente cada uma.
+
+Ao final, analisaremos ainda, algumas das principais características dos outliers.
+
+### ["Análise exploratória do Dataset "House Prices - Advanced Regression Techniques - Parte 2"](https://github.com/hermannvargens/Modelling-House-Prices-Advanced-Regression-Techniques)
+Esta é a segunda parte do projeto relacionado ao dataset de competição do Kaggle "House Prices - Advanced Regression Techniques", que teve como objetivos:
+
+Analisar e comparar o desempenho de 4 modelos de Machine Learning (Regressão Linear, Random Forest Regressor, KNN Regressor e Support Vector Regression).
+
+Otimizar cada modelo através do tuning dos respectivos hiperparâmetros, analisando de que forma eles impactam no desempenho.
+
+Utilizar a técnica de Stacking Generalization, para combinar todas as predições de forma a encontrar um modelo cujo desempenho supere todos os outros modelos individualmente.
+
+### ["Titanic - Machine Learning from Disaster"]([https://github.com/hermannvargens/Clustering](https://github.com/hermannvargens/titanic))
+Neste projeto, o utilizei o conhecido dataset da competição do Titanic, obtido do Kaggle, para realizar Análise Exploratória de Dados, e responder algumas perguntas sobre o dataset.
+Utilizei a biblioteca Altair para visualização de gráficos, a qual também fornece ferramentas de interatividade.
+Para a modelagem empreguei o Random Forest Classifier, e otimizei os parâmetros com o GridSearchCV.
