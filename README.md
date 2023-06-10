@@ -66,3 +66,6 @@ Utilizar a técnica de Stacking Generalization, para combinar todas as prediçõ
 Neste projeto, o utilizei o conhecido dataset da competição do Titanic, obtido do Kaggle, para realizar Análise Exploratória de Dados, e responder algumas perguntas sobre o dataset.
 Utilizei a biblioteca Altair para visualização de gráficos, a qual também fornece ferramentas de interatividade.
 Para a modelagem empreguei o Random Forest Classifier, e otimizei os parâmetros com o GridSearchCV.
+
+###["SpaceX Falcon 9 first stage Landing Prediction"](https://github.com/hermannvargens/SpaceX)
+This capstone was needed to complete the IBM-Coursera Data Science course. The aim was to predict whether a rocket would land successfully or not. I used BeautifulSoup for Web Scrap data, I did Exploratory Data Analysis with SQL and Pandas, Data Visualization with Matplolib, Seaborn and Folium, I created a dashboard using Plotly and finally I used some Machine Learning models to classify the rocket launches.
