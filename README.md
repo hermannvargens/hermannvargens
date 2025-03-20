@@ -7,11 +7,9 @@
 
 ## Sobre mim
 
-Olá, me chamo Hermann, sou servidor público federal há 11 anos. Embora não atue diretamente na área de dados, sou apaixonado pelo universo dos dados e procuro sempre utilizar o conhecimento e as ferramentas da Análise de Dados e Ciência de Dados em busca de soluções!
+Olá, me chamo Hermann, sou Engenheiro de Tecnologia Militar. Embora não atue diretamente na área de dados, sou apaixonado por esse universo e procuro sempre utilizar o conhecimento e as ferramentas da Análise de Dados e Ciência de Dados em busca de soluções!
 
 Tenho background na área de Engenharia Química e também Física, que me ajudaram a desenvolver as habilidades de pensamento analítico e comunicação.
-
-Amo estudar, e encontrei nas Ciências de Dados a oportunidade de unir matemática e computação pra resolver diferentes tipos de problemas de negócios.
 
 
 ## Habilidades
