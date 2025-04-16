@@ -7,9 +7,9 @@
 
 ## Sobre mim
 
-Olá, me chamo Hermann, sou Engenheiro de Tecnologia Militar. Embora não atue diretamente na área de dados, sou apaixonado por esse universo e procuro sempre utilizar o conhecimento e as ferramentas da Análise de Dados e Ciência de Dados em busca de soluções!
+Olá, me chamo Hermann, sou Engenheiro de Tecnologia Militar, no Exército Brasileiro. Atuo na área de manutenção de produtos de defesa, e outras correlatas. Embora não atue diretamente na área de dados, sou apaixonado por esse universo e procuro sempre utilizar o conhecimento e as ferramentas da Análise de Dados e Ciência de Dados em busca de soluções!
 
-Tenho background na área de Engenharia Química e também Física, que me ajudaram a desenvolver as habilidades de pensamento analítico e comunicação.
+Atualmente estou cursando Doutorado em Engenharia Química na UFPR, onde desenvolvo trabalhos relacionados a utilização de Machine Learning para otimização de processos e predição da composição de misturas aplicando Machine Learning à Espectroscopia.
 
 
 ## Habilidades
